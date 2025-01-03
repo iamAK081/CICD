@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Working\\CICDGit\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A6CA-AAA0-475D-B87D-1921E13EFBDF}|Test1.vcxproj|E:\\Working\\CICDGit\\Test1\\Test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB64A6CA-AAA0-475D-B87D-1921E13EFBDF}|Test1.vcxproj|solutionrelative:Test1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cpp",
+              "DocumentMoniker": "E:\\Working\\CICDGit\\Test1\\Test1.cpp",
+              "RelativeDocumentMoniker": "Test1.cpp",
+              "ToolTip": "E:\\Working\\CICDGit\\Test1\\Test1.cpp",
+              "RelativeToolTip": "Test1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T18:20:12.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
